@@ -1,1 +1,3 @@
-# hellow-word
+# maven-project
+
+Simple Maven Project
